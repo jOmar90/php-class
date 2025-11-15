@@ -1,0 +1,16 @@
+{
+    "name": "mjoma/php-class",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Mjoma\\PhpClass\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mJomar90",
+            "email": "mjomar1990@gmail.com"
+        }
+    ],
+    "require": {}
+}
